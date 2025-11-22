@@ -31,7 +31,7 @@ Tested on AMD Radeon 7900XTX, Ubuntu 24.04, ROCm 7.1 and AMDGPU installed. Rocky
 1. Download the script:
 
 ```bash
-wget https://github.com/eepoort-dev/CreatorEnv/CreatorEnv.sh
+git clone https://github.com/eepoort-dev/CreatorEnv/CreatorEnv.sh
 ```
 
 2. Make the script executable, run the script:
